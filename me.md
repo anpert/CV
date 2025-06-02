@@ -7,3 +7,4 @@
 Opetan pääasiassa ohjelmointia ja Exceliä Ammattiopisto Luovilla Oulussa
 Opiskelijoina on minua parempia koodinvääntäjiä. Minulla on annettavaa heille ohjelmistokehityksen ja tuotehallinnan alalta.
 
+
