@@ -1,6 +1,7 @@
 # ME
 
-:fi: * Ammatillinen erityisopettaja (Jyväskylän ammattikorkeakoulu)
+:fi: 
+* Ammatillinen erityisopettaja (Jyväskylän ammattikorkeakoulu)
 * Kasvatustieteen maisteri (Oulun yliopisto)
 
 Työskentelen Ammattiopisto Luovissa Oulussa.
@@ -9,7 +10,8 @@ Opiskelijoideni joukossa on minua parempia koodareita – ja se on täysin tarko
 
 Minulla on annettavaa erityisesti ohjelmistokehityksen periaatteiden, kokonaisuuksien hahmottamisen sekä tuotehallinnan näkökulmasta.
 
-:gb: * Vocational Special Needs Teacher (Jyväskylä University of Applied Sciences)
+:gb: 
+* Vocational Special Needs Teacher (Jyväskylä University of Applied Sciences)
 * Master of Education (University of Oulu)
 
 I work at Ammattiopisto Luovi in Oulu.
